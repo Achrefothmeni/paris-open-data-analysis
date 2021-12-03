@@ -1,0 +1,13 @@
+.charts-container{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    flex-wrap: wrap;
+}
+.chart{
+    height: 500px;
+}
+
+body{
+    padding: 30px;
+}
